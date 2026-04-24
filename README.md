@@ -1,6 +1,6 @@
-# Online ToDo List Application – MERN Stack
+# ToDo List Application – MERN Stack
 
-## Screenshots / Demo
+## Demo
 
 A demo video demonstrating the working of the system and project source files are included in the uploaded project report.
 
